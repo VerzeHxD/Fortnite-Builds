@@ -18,6 +18,8 @@
 - [@Simplyblk](https://github.com/simplyblk)
 - [@FNBuilds](https://github.com/FNBuilds)
 
+- **If Your Credits Are Not Here, DM Verze#6969 On Discord**
+
 
 
 # Contribute
