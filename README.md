@@ -185,14 +185,14 @@
 # Season 11 (Chapter 2 Season 1)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 11.00-CL-9603448	             | 01-08-19         	     | N/A           |	 https://cdn.fnbuilds.services/10.00.zip|
+| 11.00-CL-9603448	             | N/A         	     | N/A           |	 No Download Link (May Change In Future)|
 | 11.01-CL-9728272	                | N/A          	 | N/A           	    |		No Download Link (May Change In Future)|
 | 11.10-CL-990108	                | N/A          	 | N/A            	    |		No Download Link (May Change In Future)|
 | 11.11-CL-10082788                | N/A          	 | N/A            	    |		No Download Link (May Change In Future)|
 | 11.20-CL-10328358	                | N/A        	 | N/A            	    |		No Download Link (May Change In Futur)|
 | 11.21-CL-10481509           	| N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 12.30-CL-12624643          	| N/A          	 | N/A            	    |		https://cdn.fnbuilds.services/10.40.rar|
-| 11.31-CL-10800459	             | N/A         	     | N/A           |	 https://cdn.fnbuilds.services/10.00.zip|
+| 11.30-CL-10708866          	| N/A          	 | N/A            	    |		No Download Link (May Change In Future)|
+| 11.31-CL-10800459	             | N/A         	     | N/A           |	  	https://cdn.fnbuilds.services/11.31.rar|
 | 11.40-CL-11039906                | N/A          	 | N/A            	    |		No Download Link (May Change In Future)|
 | 11.50-CL-11265652	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
@@ -208,9 +208,9 @@
 | 12.30-CL-12624643	                | 31-03-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.40-CL-12782126	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.40-CL-12837456	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		 	https://cdn.fnbuilds.services/12.41.rar|
 | 12.50-CL-13044369                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 12.50-CL-13193885	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
+| 12.50-CL-13193885	                | 29-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.60-CL-13315662                | 20-05-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.61-CL-13498980	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
@@ -220,36 +220,37 @@
 # Season 13 (Chapter 2 Season 3)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 13.00-CL-13649278              | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 13.00-CL-13649278              | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/13.00.rar|
 | 13.00-CL-13696059	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
 | 13.00-CL-13715544	                | N/A      	 | N/A            	    |		No Download Link (May Change In Future)|
-| 13.20-CL-13777676               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 13.20-CL-13777676               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 13.30-CL-13884634	                | N/A        	 | N/A            	    |		No Download Link (May Change In Future)|
 | 13.40-CL-14008768	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 13.40-CL-14036559                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		https://cdn.fnbuilds.services/12.41.rar|
+| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		No Download Link (May Change In Future)|
 
 
 # Season 14 (Chapter 2 Season 4)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-14173417              | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
-| 14.00-CL-14199892	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
-| 14.00-CL-14211474                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 14.10-CL-14288110              | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
-| 14.10-CL-14312695                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 14.20-CL-14354056                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 14.20-CL-14375974                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 14.30-CL-14456520	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
-| 14.40-CL-14512399                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 14.40-CL-14550713	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 14.50-CL-14617811                | 20-05-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 14.50-CL-14643651	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
-| 14.60-CL-14756138	          | N/A      	 | N/A            	    |		https://cdn.fnbuilds.services/12.41.rar|
-| 14.60-CL-14785135                | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 14.60-CL-14786821                | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.50.zip|
+| 14.00-CL-14173417              | 27-09-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.00-CL-14199892	                | 10-10-20         	 | UE4.26           	    |		No Download Link (May Change In Future)|
+| 14.00-CL-14211474                | 23-10-20       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.10-CL-14288110              | 13-10-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.10-CL-14312695                | 21-10-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.20-CL-14354056                | 03-11-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.20-CL-14375974                | 18-11-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.30-CL-14456520	          | 21-04-20       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.40-CL-14512399                | 29-04-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.40-CL-14550713	                | 29-04-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
+| 14.50-CL-14617811                | 20-05-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.50-CL-14643651	                | 26-05-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 14.60-CL-14756138	          | N/A      	 | N/A            	    |		No Download Link (May Change In Future)|
+| 14.60-CL-14785135                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 14.60-CL-14786821                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 14.50-CL-14617811                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 14.50-CL-14643651	                | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.61.zip|
+| 14.50-CL-14643651	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 14.60-CL-14786821	                | 18-11-20         	 | UE4.26            	    |		 	https://cdn.fnbuilds.services/14.60.rar|
 
 
 
@@ -258,38 +259,38 @@
 # Season 15 (Chapter 2 Season 5)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 15.00-CL-14835335             | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
-| 15.10-CL-14904303	                | 03-03-20         	 | UE4.24           	    |		No Download Link (May Change In Future)|
-| 15.10-CL-14937640	                | 17-03-20       	 | UE4.24            	    |		No Download Link (May Change In Future)|
-| 15.10-CL-15014719               | 24-03-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.21.zip|
-| 15.20-CL-15070882                | 31-03-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 15.21-CL-15083856	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 15.30-CL-15233634	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 15.30-CL-15316852	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
-| 15.30-CL-15341163                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 15.40-CL-15496915	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 15.50-CL-15570449                | 20-05-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
+| 15.00-CL-14835335             | 02-12-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.10-CL-14904303	                | 15-12-20         	 | UE4.26           	    |		No Download Link (May Change In Future)|
+| 15.10-CL-14937640	                | 13-01-21       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.10-CL-15014719               | 20-01-22         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.20-CL-15070882                | 02-02-21         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.21-CL-15083856	                | 16-02-21         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.30-CL-15233634	                | 15-04-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.30-CL-15316852	          | 21-04-20       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.30-CL-15341163                | 29-04-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
+| 15.40-CL-15496915	                | 29-04-20         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		No Download Link (May Change In Future)|
 
 
 # Season 16 (Chapter 2 Season 6)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 16.00-CL-15727376             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
-| 16.10-CL-15913292	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
-| 16.20-CL-16042441	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 16.30-CL-16163563               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
-| 16.40-CL-16218553                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 16.50-CL-16469788	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 16.00-CL-15727376             | 16-03-21         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 16.10-CL-15913292	                | 30-03-21         	 | UE4.26           	    |		No Download Link (May Change In Future)|
+| 16.20-CL-16042441	                | 13-04-21       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 16.30-CL-16163563               | 27-04-21         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 16.40-CL-16218553                | 11-05-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/16.40.rar|
+| 16.50-CL-16469788	                | 03-06-22         	 | UE4.26            	    |		No Download Link (May Change In Future)|
 
 
 
 # Season 17 (Chapter 2 Season 7)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 17.00-CL-16593740             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 17.00-CL-16593740             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 17.10-CL-16745144	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
 | 17.20-CL-16868155	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 17.21-CL-16967001               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 17.21-CL-16967001               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 17.30-CL-17004569                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 17.50-CL-17388565	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
@@ -297,10 +298,10 @@
 # Season 18 (Chapter 2 Season 8)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 18.00-CL-17519952             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 18.00-CL-17519952             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 18.10-CL-17661844	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
 | 18.20-CL-17745267	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 18.21-CL-17811397               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 18.21-CL-17811397               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 18.30-CL-17882303                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 18.40-CL-18163738	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
@@ -308,10 +309,10 @@
 # Season 19 (Chapter 3 Season 1)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 19.00-CL-18380290             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 19.00-CL-18380290             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 19.01-CL-18489740	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
-| 19.10-CL-18675304	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 19.20-CL-18775446               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 19.10-CL-18675304	                | N/A       	 | N/A            	    |		 	https://cdn.fnbuilds.services/19.10.rar|
+| 19.20-CL-18775446               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 19.30-CL-19027703                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 19.40-CL-19215531	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
@@ -320,10 +321,10 @@
 # Season 20 (Chapter 3 Season 2)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 20.00-CL-19532288             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 20.00-CL-19532288             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 20.10-CL-19598943	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
 | 20.20-CL-19751212	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 20.40-CL-20244966               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 20.40-CL-20244966               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 22.40-CL-23070899                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 23.00-CL-23344627	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
