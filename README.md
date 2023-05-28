@@ -281,3 +281,49 @@
 | 16.40-CL-16218553                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 16.50-CL-16469788	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 
+
+
+# Season 17 (Chapter 2 Season 7)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 17.00-CL-16593740             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 17.10-CL-16745144	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
+| 17.20-CL-16868155	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
+| 17.21-CL-16967001               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 17.30-CL-17004569                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 17.50-CL-17388565	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+
+
+# Season 18 (Chapter 2 Season 8)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 18.00-CL-17519952             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 18.10-CL-17661844	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
+| 18.20-CL-17745267	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
+| 18.21-CL-17811397               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 18.30-CL-17882303                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 18.40-CL-18163738	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+
+
+# Season 19 (Chapter 3 Season 1)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 19.00-CL-18380290             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 19.01-CL-18489740	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
+| 19.10-CL-18675304	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
+| 19.20-CL-18775446               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 19.30-CL-19027703                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 19.40-CL-19215531	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+
+
+
+# Season 20 (Chapter 3 Season 2)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 20.00-CL-19532288             | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.00.rar|
+| 20.10-CL-19598943	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
+| 20.20-CL-19751212	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
+| 20.40-CL-20244966               | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/12.21.zip|
+| 22.40-CL-23070899                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+| 23.00-CL-23344627	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+
