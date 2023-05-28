@@ -21,7 +21,7 @@
 
 
 # Contribute
-- If You Wish To Add / Contribute Anything That Isn't Listed Here, DM @Verze#6969 On Discord
+**- If You Wish To Add / Contribute Anything That Isn't Listed Here, DM @Verze#6969 On Discord**
 
 
 # Downloads
