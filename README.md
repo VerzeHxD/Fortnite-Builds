@@ -212,7 +212,7 @@
 | 12.30-CL-12624643	                | 31-03-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.40-CL-12782126	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.40-CL-12837456	                | 15-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		 	https://cdn.fnbuilds.services/12.41.rar|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		 	https://cdn.fnbuilds.services/Fortnite%2012.41.zip|
 | 12.50-CL-13044369                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
 | 12.50-CL-13193885	                | 29-04-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
 | 12.60-CL-13315662                | 20-05-20         	 | UE4.25            	    |		No Download Link (May Change In Future)|
