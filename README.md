@@ -170,8 +170,8 @@
 | 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
 | 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		No Download Link (Contribute A Pull Request If You Have This Build)|
 | 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
-| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
-| 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
+| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
+| 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.40.zip|
 | 9.41-CL-7609292	                | 23-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.41.rar|
 
 
