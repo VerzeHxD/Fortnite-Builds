@@ -81,6 +81,7 @@
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 	https://cdn.fnbuilds.services/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | https://cdn.fnbuilds.services/3.3.rar|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://cdn.fnbuilds.services/3.5.rar|
+| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://cdn.fnbuilds.services/3.6.zip|
 
 
 
