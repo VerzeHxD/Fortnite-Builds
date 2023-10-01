@@ -151,11 +151,11 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.00-CL-N/A	                | 28-02-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.00.zip|
-| 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
-| 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
-| 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
+| 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.rar|
-| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
+| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
 | 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.51.rar|
@@ -168,7 +168,7 @@
 | 9.00-CL-6337466	                | 09-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.00.zip|
 | 9.01-CL-N/A	                | 15-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.01.zip|
 | 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
-| 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		No Download Link (Contribute A Pull Request If You Have This Build)|
+| 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
 | 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
 | 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.40.zip|
@@ -182,7 +182,7 @@
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23           |	 https://cdn.fnbuilds.services/10.00.zip|
 | 10.10-CL-N/A	                | 10-08-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.10.zip|
 | 10.20-CL-N/A	                | 27-08-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.20.zip|
-| 10.30-CL-N/A	                | 11-09-19         	 | UE4.23            	    |		No Download Link (May Change In Future)|
+| 10.30-CL-N/A	                | 11-09-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.31.zip|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
@@ -292,12 +292,13 @@
 # Season 17 (Chapter 2 Season 7)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 17.00-CL-16593740             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 17.10-CL-16745144	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
-| 17.20-CL-16868155	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
-| 17.21-CL-16967001               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
-| 17.30-CL-17004569                | N/A         	 | N/A            	    |		https://cdn.fnbuilds.services/17.30.zip|
-| 17.50-CL-17388565	                | N/A         	 | N/A            	    |		 	https://cdn.fnbuilds.services/17.50.zip|
+| 17.00-CL-16593740             | 16-03-21         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 17.10-CL-16745144	                | 30-03-21         	 | UE4.26           	    |		No Download Link (May Change In Future)|
+| 17.20-CL-16868155	                | 13-04-21       	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 17.21-CL-16967001               | N/A         	 | UE4.26            	    |		No Download Link (May Change In Future)|
+| 17.30-CL-17004569                | 27-04-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/17.30.zip|
+| 17.40-CL-17004569                | 11-05-21       | UE4.26.1            	    |		https://cdn.fnbuilds.services/17.30.zip|
+| 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		 	https://cdn.fnbuilds.services/17.50.zip|
 
 
 # Season 18 (Chapter 2 Season 8)
