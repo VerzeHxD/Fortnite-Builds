@@ -94,7 +94,7 @@
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://cdn.fnbuilds.services/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://cdn.fnbuilds.services/4.2.zip | |
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://cdn.fnbuilds.services/4.4.rar|
-| 4.4.0-CL-4117433          	| N/A       	 | N/A  	    |           rebrand.ly/4_4_0_FN|
+| 4.4.0-CL-4117433          	| N/A       	 | N/A  	    |           https://rebrand.ly/4_4_0_FN|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		No Download Link Available Currently. |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.fnbuilds.services/4.5.rar|
 
