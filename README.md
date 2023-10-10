@@ -5,7 +5,6 @@
 # **Socials**
 
 - [A Link With All My Socials](https://feds.lol/verze)
-- [My Discord Server](https://discord.gg/HxD)
 
 # Credits
 
@@ -157,7 +156,7 @@
 | 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.rar|
-| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
 | 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.51.rar|
@@ -217,7 +216,7 @@
 | 12.40-CL-12837456	                | 15-04-20         	 | UE4.25            	    |		No Download Link Available Currently.|
 | 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		 	https://cdn.fnbuilds.services/Fortnite%2012.41.zip|
 | 12.50-CL-13044369                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
-| 12.50-CL-13193885	                | 29-04-20         	 | UE4.25            	    |		No Download Link Available Currently.|
+| 12.50-CL-13193885	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
 | 12.60-CL-13315662                | 20-05-20         	 | UE4.25            	    |		No Download Link Available Currently.|
 | 12.61-CL-13498980	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
@@ -299,7 +298,7 @@
 | 17.20-CL-16868155	                | 13-04-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 17.21-CL-16967001               | N/A         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 17.30-CL-17004569                | 27-04-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/17.30.zip|
-| 17.40-CL-17004569                | 11-05-21       | UE4.26.1            	    |		https://cdn.fnbuilds.services/17.40.zip|
+ | 17.40-CL-17004569                | 11-05-21       | UE4.26.1            	    |		No Download Link Available Currently.|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		 	https://cdn.fnbuilds.services/17.50.zip|
 
 
