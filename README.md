@@ -17,20 +17,25 @@
 - [@Simplyblk](https://github.com/simplyblk)
 - [@FNBuilds](https://github.com/FNBuilds)
 
-** I Did NOT Make These Link's, All Credit's Go To The Original Owner
+
+- **I Did NOT Make These Linkss, All Credit's Go To The Original Owner**
 
 - **If Your Credits Are Not Here, DM VerzeHxD / Verze#6969 On Discord**
 
 
 
 # Contribute
-- **If You Wish To Add / Contribute Anything That Isn't Listed Here, DM @Verze#6969 On Discord**
+- **If You Wish To Add / Contribute Anything That Isn't Listed Here, DM @VerzeHxD On Discord**
+
+# Network map:
+![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
+
+- **Downloads are capped at 60 Mb/s (Around 500 Mbps)**
+
+- **Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficent downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)**
 
 
 # **Downloads**
-
-
-
 
 
 # Pre-BattleRoyale
