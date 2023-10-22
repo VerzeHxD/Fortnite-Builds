@@ -35,6 +35,10 @@
 - **Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficent downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)**
 
 
+# IMPORTANT
+- **(https://cdn.fnbuilds.services) Is Currently Down.**
+
+
 # **Downloads**
 
 
