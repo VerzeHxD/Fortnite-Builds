@@ -125,7 +125,7 @@
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://cdn.blksservers.com/5.21.rar|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |            https://cdn.blksservers.com/5.30.rar|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://cdn.blksservers.com/5.40.rar|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		 	Link Broken Currently.|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		 	https://rebrand.ly/5_41UploadedByVerze|
 
 
 # Season 6
