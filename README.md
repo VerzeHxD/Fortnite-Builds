@@ -105,7 +105,7 @@
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://cdn.blksservers.com/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://cdn.blksservers.com/4.2.zip | |
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://cdn.blksservers.com/4.4.rar|
-| 4.4.0-CL-4117433          	| N/A       	 | N/A  	    |           https://rebrand.ly/4_4_0_FN|
+| 4.4.0-CL-4117433          	| 19-06-18 	       	 | 4124989  	    |           https://rebrand.ly/4_4_0_FN|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		No Download Link Available Currently. |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.blksservers.com/4.5.rar|
 
@@ -163,15 +163,15 @@
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 8.00-CL-N/A	                | 28-02-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.00.zip|
-| 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
-| 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
-| 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
-| 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.blksservers.com/8.20.rar|
-| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.30.rar|
-| 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.40.zip|
+| 8.00-CL-5203069	                | 28-02-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.00.zip|
+| 8.01-CL-5285981 		                | 06-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.10-CL-5372009 		                | 12-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.11-CL-5442615	                | 20-03-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 8.20-CL-5547534 		                | 27-03-19        	 | UE4.23            	    |		https://cdn.blksservers.com/8.20.rar|
+| 8.30-CL-5793395	                | 10-04-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.30.rar|
+| 8.40-CL-5914491 	                | 17-04-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.blksservers.com/8.50.zip|
-| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.51.rar|
+| 8.51-CL-6165369	                | 02-05-19         	 | UE4.23            	    |		https://cdn.blksservers.com/8.51.rar|
 
 
 
@@ -179,12 +179,12 @@
  Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 9.00-CL-6337466	                | 09-05-19        	 | UE4.23            	    |		https://cdn.blksservers.com/9.00.zip|
-| 9.01-CL-N/A	                | 15-05-19        	 | UE4.23            	    |		https://cdn.blksservers.com/9.01.zip|
+| 9.01-CL-6428087	                | 15-05-19        	 | UE4.23            	    |		https://cdn.blksservers.com/9.01.zip|
 | 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.blksservers.com/9.10.rar
-| 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		No Download Link Available Currently.|
-| 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.21.zip|
-| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.30.zip|
-| 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.40.zip|
+| 9.20-CL-6822798	                | 06-06-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 9.21-CL-6922310 		                | 12-06-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.21.zip|
+| 9.30-CL-7021684	                | 09-07-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.30.zip|
+| 9.40-CL-7315705	                | 17-07-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.40.zip|
 | 9.41-CL-7609292	                | 23-07-19         	 | UE4.23            	    |		https://cdn.blksservers.com/9.41.rar|
 
 
@@ -193,10 +193,10 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23           |	 https://cdn.blksservers.com/10.00.zip|
-| 10.10-CL-N/A	                | 10-08-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.10.zip|
-| 10.20-CL-N/A	                | 27-08-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.20.zip|
-| 10.30-CL-N/A	                | 11-09-19         	 | UE4.23            	    |		No Download Link Available Currently.|
-| 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.31.zip|
+| 10.10-CL-7955722	                | 10-08-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.10.zip|
+| 10.20-CL-8243923	                | 27-08-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.20.zip|
+| 10.30-CL-8569414	                | 11-09-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 10.31-CL-8723043	                | 18-09-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.31.zip|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.blksservers.com/10.40.rar|
 
 
@@ -308,7 +308,7 @@
 | 17.21-CL-16967001               | N/A         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 17.30-CL-17004569                | 27-04-21         	 | UE4.26            	    |		https://cdn.blksservers.com/17.30.zip|
  | 17.40-CL-17004569                | 11-05-21       | UE4.26.1            	    |		No Download Link Available Currently.|
-| 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		 	https://cdn.blksservers.com/17.50.zip|
+| 17.50-CL-17388565	                | 03-06-22         	 | UE4.26.1            	    |		 	https://cdn.blksservers.com/17.50.zip|
 
 
 # Season 18 (Chapter 2 Season 8)
