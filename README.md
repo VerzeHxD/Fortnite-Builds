@@ -39,7 +39,7 @@
 
 
 # IMPORTANT
-- **(https://cdn.fnbuilds.services) Is Currently Down.**
+- **You Can't Just Launch These Builds, You Need A Gameserver & Backend That Support That Season, I Suggest: [Project Reboot](https://discord.gg/V8cKtrgWw8) As The Gameserver, & [LawinServer](https://github.com/Lawin0129/LawinServer) As The Backend.**
 
 
 # **Downloads**
@@ -106,7 +106,7 @@
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://cdn.blksservers.com/4.2.zip | |
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://cdn.blksservers.com/4.4.rar|
 | 4.4.0-CL-4117433          	| 19-06-18 	       	 | 4124989  	    |           https://rebrand.ly/4_4_0_FN|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		No Download Link Available Currently. |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rebrand.ly/4_4_1 |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.blksservers.com/4.5.rar|
 
 
@@ -132,7 +132,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		 	https://cdn.blksservers.com/6.00.rar|
-| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		 	 	No Download Link Available Currently. |
+| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		 	 	https://rebrand.ly/6_00_1 |
 | 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |            	https://cdn.blksservers.com/6.01.rar|
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://cdn.blksservers.com/6.1.1.rar|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://cdn.blksservers.com/6.02.rar|
@@ -245,7 +245,7 @@
 | 13.30-CL-13884634	                | N/A        	 | N/A            	    |		No Download Link Available Currently.|
 | 13.40-CL-14008768	                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | 13.40-CL-14036559                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		No Download Link Available Currently.|
+| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		https://shorturl.at/MTXY1|
 
 
 # Season 14 (Chapter 2 Season 4)
@@ -275,7 +275,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-14835335             | 02-12-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 15.10-CL-14904303	                | 15-12-20         	 | UE4.26           	    |		No Download Link Available Currently.|
+| 15.10-CL-14904303	                | 15-12-20         	 | UE4.26           	    |		https://www.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=0|
 | 15.10-CL-14937640	                | 13-01-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.10-CL-15014719               | 20-01-22         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.20-CL-15070882                | 02-02-21         	 | UE4.26            	    |		No Download Link Available Currently.|
@@ -284,7 +284,7 @@
 | 15.30-CL-15316852	          | 21-04-20       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.30-CL-15341163                | 29-04-20         	 | UE4.26            	    |		https://cdn.blksservers.com/15.30.rar|
 | 15.40-CL-15496915	                | 29-04-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	Link Broken Currently.|
+| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	https://dl.fnvault.com/15.50-15570449.zip|
 
 
 # Season 16 (Chapter 2 Season 6)
@@ -307,7 +307,7 @@
 | 17.20-CL-16868155	                | 13-04-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 17.21-CL-16967001               | N/A         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 17.30-CL-17004569                | 27-04-21         	 | UE4.26            	    |		https://cdn.blksservers.com/17.30.zip|
- | 17.40-CL-17004569                | 11-05-21       | UE4.26.1            	    |		No Download Link Available Currently.|
+ | 17.40-CL-17269705                | 17-08-21       | UE4.26.1            	    |		https://tinyurl.com/y6bzws35|
 | 17.50-CL-17388565	                | 03-06-22         	 | UE4.26.1            	    |		 	https://cdn.blksservers.com/17.50.zip|
 
 
@@ -348,7 +348,7 @@
 # Season 21 (Chapter 3 Season 3)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 21.00             | 6-7-22         	 | N/A            	    |		https://rebrand.ly/21_00|
+| 21.00-CL-N/A             | 6-7-22         	 | N/A            	    |		https://rebrand.ly/21_00|
 | N/A	                | N/A         	 | N/A           	    |		No Download Link Available Currently.|
 | N/A	                | N/A       	 | N/A            	    |		No Download Link Available Currently.|
 | N/A               | N/A         	 | N/A            	    |		No Download Link Available Currently.|
