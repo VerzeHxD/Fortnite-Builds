@@ -9,6 +9,7 @@
 # Credits
 
 - [@Verze](https://github.com/VerzeHxD)
+- [@Max](https://github.com/max8447)
 - [@Fischsalat](https://github.com/Fischsalat)
 - [@notsamicc](https://github.com/notsamicc)
 - [@Ltsparten88](https://github.com/Ltsparten88)
