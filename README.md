@@ -277,7 +277,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-14835335             | 02-12-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 15.10-CL-14904303	                | 15-12-20         	 | UE4.26           	    |		https://www.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=0|
+| 15.10-CL-14904303	                | 15-12-20         	 | UE4.26           	    |		https://rebrand.ly/15__10|
 | 15.10-CL-14937640	                | 13-01-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.10-CL-15014719               | 20-01-22         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.20-CL-15070882                | 02-02-21         	 | UE4.26            	    |		No Download Link Available Currently.|
@@ -292,7 +292,7 @@
 # Season 16 (Chapter 2 Season 6)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 16.00-CL-15727376             | 16-03-21         	 | UE4.26            	    |		No Download Link Available Currently.|
+| 16.00-CL-15727376             | 16-03-21         	 | UE4.26            	    |		https://rebrand.ly/16_00|
 | 16.10-CL-15913292	                | 30-03-21         	 | UE4.26           	    |		No Download Link Available Currently.|
 | 16.20-CL-16042441	                | 13-04-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 16.30-CL-16163563               | 27-04-21         	 | UE4.26            	    |		No Download Link Available Currently.|
