@@ -247,7 +247,7 @@
 | 13.30-CL-13884634	                | N/A        	 | N/A            	    |		No Download Link Available Currently.|
 | 13.40-CL-14008768	                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | 13.40-CL-14036559                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		https://shorturl.at/MTXY1|
+| 13.40-CL-14113327	          | N/A       	 | N/A           	    |		https://cdn.fnbuilds.services/13.40.zip|
 
 
 # Season 14 (Chapter 2 Season 4)
