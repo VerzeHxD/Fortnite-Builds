@@ -328,7 +328,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.00-CL-18380290             | N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 19.01-CL-18489740	                | N/A         	 | N/A           	    |		No Download Link Available Currently.|
+| 19.01-CL-18489740	                | N/A         	 | N/A           	    |		https://shorturl.at/cjwLQ|
 | 19.10-CL-18675304	                | N/A       	 | N/A            	    |		 	https://cdn.fnbuilds.services/19.10.rar|
 | 19.20-CL-18775446               | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | 19.30-CL-19027703                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
