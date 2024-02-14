@@ -211,7 +211,7 @@
 | 11.11-CL-10082788                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
 | 11.20-CL-10328358	                | N/A        	 | N/A            	    |		No Download Link Available Currently.|
 | 11.21-CL-10481509           	| N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 11.30-CL-10708866          	| N/A          	 | N/A            	    |		No Download Link Available Currently.|
+| 11.30-CL-10708866          	| N/A          	 | N/A            	    |		https://rebrand.ly/1130build|
 | 11.31-CL-10800459	             | N/A         	     | N/A           |	  	https://cdn.fnbuilds.services/11.31.rar|
 | 11.40-CL-11039906                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
 | 11.50-CL-11265652	                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
