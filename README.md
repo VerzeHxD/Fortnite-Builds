@@ -127,7 +127,7 @@
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://cdn.fnbuilds.services/5.21.rar|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |            https://cdn.fnbuilds.services/5.30.rar|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://cdn.fnbuilds.services/5.40.rar|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		 	https://rebrand.ly/5_41UploadedByVerze|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		 	https://rebrand.ly/5_41BUILD|
 
 
 # Season 6
@@ -183,7 +183,7 @@
 | 9.00-CL-6337466	                | 09-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.00.zip|
 | 9.01-CL-6428087	                | 15-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.01.zip|
 | 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar
-| 9.20-CL-6822798	                | 06-06-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 9.20-CL-6822798	                | 06-06-19         	 | UE4.23            	    |		https://rebrand.ly/9_20|
 | 9.21-CL-6922310 		                | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
 | 9.30-CL-7021684	                | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
 | 9.40-CL-7315705	                | 17-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.40.zip|
@@ -197,7 +197,7 @@
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23           |	 https://cdn.fnbuilds.services/10.00.zip|
 | 10.10-CL-7955722	                | 10-08-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.10.zip|
 | 10.20-CL-8243923	                | 27-08-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.20.zip|
-| 10.30-CL-8569414	                | 11-09-19         	 | UE4.23            	    |		No Download Link Available Currently.|
+| 10.30-CL-8569414	                | 11-09-19         	 | UE4.23            	    |		https://rebrand.ly/10_30|
 | 10.31-CL-8723043	                | 18-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.31.zip|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
@@ -206,8 +206,8 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 11.00-CL-9603448	             | N/A         	     | N/A           |	 https://cdn.fnbuilds.services/11.00.zip|
-| 11.01-CL-9728272	                | N/A          	 | N/A           	    |		No Download Link Available Currently.|
-| 11.10-CL-990108	                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
+| 11.01-CL-9728272	                | N/A          	 | N/A           	    |		https://rebrand.ly/11_01|
+| 11.10-CL-990108	                | N/A          	 | N/A            	    |		https://rebrand.ly/11_10|
 | 11.11-CL-10082788                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
 | 11.20-CL-10328358	                | N/A        	 | N/A            	    |		No Download Link Available Currently.|
 | 11.21-CL-10481509           	| N/A         	 | N/A            	    |		No Download Link Available Currently.|
@@ -222,7 +222,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-11586896              | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
-| 12.10-CL-11883027	                | 03-03-20         	 | UE4.24           	    |		No Download Link Available Currently.|
+| 12.10-CL-11883027	                | 03-03-20         	 | UE4.24           	    |		https://rebrand.ly/12_10|
 | 12.20-CL-12236980	                | 17-03-20       	 | UE4.24            	    |		No Download Link Available Currently.|
 | 12.21-CL-12236980               | 24-03-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.21.zip|
 | 12.30-CL-12624643	                | 31-03-20         	 | UE4.25            	    |		No Download Link Available Currently.|
@@ -260,7 +260,7 @@
 | 14.10-CL-14312695                | 21-10-20         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 14.20-CL-14354056                | 03-11-20         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 14.20-CL-14375974                | 18-11-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 14.30-CL-14456520	          | 21-04-20       	 | UE4.26            	    |		No Download Link Available Currently.|
+| 14.30-CL-14456520	          | 21-04-20       	 | UE4.26            	    |		[Find On Easyinstaller V2!](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)|
 | 14.40-CL-14512399                | 29-04-20         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 14.40-CL-14550713	                | 29-04-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
 | 14.50-CL-14617811                | 20-05-20         	 | UE4.26            	    |		No Download Link Available Currently.|
@@ -286,7 +286,7 @@
 | 15.30-CL-15316852	          | 21-04-20       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.30-CL-15341163                | 29-04-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
 | 15.40-CL-15496915	                | 29-04-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	https://dl.fnvault.com/15.50-15570449.zip|
+| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	https://rebrand.ly/15_50|
 
 
 # Season 16 (Chapter 2 Season 6)
@@ -297,7 +297,7 @@
 | 16.20-CL-16042441	                | 13-04-21       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 16.30-CL-16163563               | 27-04-21         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 16.40-CL-16218553                | 11-05-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/16.40.rar|
-| 16.50-CL-16469788	                | 03-06-22         	 | UE4.26            	    |		No Download Link Available Currently.|
+| 16.50-CL-16469788	                | 03-06-22         	 | UE4.26            	    |		https://rebrand.ly/16_50|
 
 
 
@@ -413,4 +413,11 @@
 | 25.11-CL-26171015 	               | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 25.20-CL-26474516 	                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 25.20-CL-26629111 		                | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
+
+
+
+# Season 27 (Season OG)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 27.11-CL-29739262 	             | 11/21/23 	         	 | UE5.3            	    |		https://rebrand.ly/27_11|
 
