@@ -211,7 +211,7 @@
 | 11.11-CL-10082788                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
 | 11.20-CL-10328358	                | N/A        	 | N/A            	    |		No Download Link Available Currently.|
 | 11.21-CL-10481509           	| N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 11.30-CL-10708866          	| N/A          	 | N/A            	    |		Link Got Taken Down|
+| 11.30-CL-10708866          	| N/A          	 | N/A            	    |		https://drive.google.com/file/d/1TaYBOJPwIxxpNJ1WFwd6VXmFnpxXF4Bl/view?usp=sharing|
 | 11.31-CL-10800459	             | N/A         	     | N/A           |	  	https://public.simplyblk.xyz/11.31.rar|
 | 11.40-CL-11039906                | N/A          	 | N/A            	    |		No Download Link Available Currently.|
 | 11.50-CL-11265652	                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
@@ -222,7 +222,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-11586896              | 20-02-20         	 | UE4.24            	    |		https://public.simplyblk.xyz/12.00.rar|
-| 12.10-CL-11883027	                | 03-03-20         	 | UE4.24           	    |		Link Got Taken Down|
+| 12.10-CL-11883027	                | 03-03-20         	 | UE4.24           	    |		https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0|
 | 12.20-CL-12236980	                | 17-03-20       	 | UE4.24            	    |		No Download Link Available Currently.|
 | 12.21-CL-12236980               | 24-03-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.21.zip|
 | 12.30-CL-12624643	                | 31-03-20         	 | UE4.25            	    |		No Download Link Available Currently.|
@@ -254,7 +254,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-14173417              | 27-09-20         	 | UE4.26            	    |		 	https://public.simplyblk.xyz/14.00.rar|
-| 14.00-CL-14199892	                | 10-10-20         	 | UE4.26           	    |		No Download Link Available Currently.|
+| 14.00-CL-14199892	                | 10-10-20         	 | UE4.26           	    |		https://drive.google.com/file/d/1txkXxCZBQzmXyWZeQ2F9SNELJR2bcF5w/view?usp=drive_link|
 | 14.00-CL-14211474                | 23-10-20       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 14.10-CL-14288110              | 13-10-20         	 | UE4.26            	    |		No Download Link Available Currently.|
 | 14.10-CL-14312695                | 21-10-20         	 | UE4.26            	    |		No Download Link Available Currently.|
@@ -286,7 +286,7 @@
 | 15.30-CL-15316852	          | 21-04-20       	 | UE4.26            	    |		No Download Link Available Currently.|
 | 15.30-CL-15341163                | 29-04-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/15.30.rar|
 | 15.40-CL-15496915	                | 29-04-20         	 | UE4.26            	    |		No Download Link Available Currently.|
-| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	Link Got Taken Down|
+| 15.50-CL-15570449                |	02-03-21        	 | UE4.26            	    |		 	https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view|
 
 
 # Season 16 (Chapter 2 Season 6)
@@ -328,7 +328,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.00-CL-18380290             | N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 19.01-CL-18489740	                | N/A         	 | N/A           	    |		Link Got Taken Down|
+| 19.01-CL-18489740	                | N/A         	 | N/A           	    |		https://public.fnbuilds.xyz/19.01.rar|
 | 19.10-CL-18675304	                | N/A       	 | N/A            	    |		 	https://public.simplyblk.xyz/19.10.rar|
 | 19.20-CL-18775446               | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | 19.30-CL-19027703                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
@@ -351,7 +351,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 21.00-CL-N/A             | 6-7-22         	 | N/A            	    |		Link Got Taken Down|
-| N/A	                | N/A         	 | N/A           	    |		No Download Link Available Currently.|
+| 21.10	                | N/A         	 | N/A           	    |		https://public.fnbuilds.xyz/21.10.zip|
 | N/A	                | N/A       	 | N/A            	    |		No Download Link Available Currently.|
 | N/A               | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | N/A                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
@@ -392,7 +392,7 @@
 | 24.01-CL-24757023	                | N/A       	 | N/A            	    |		No Download Link Available Currently.|
 | 24.10-CL-24770548               | N/A         	 | N/A            	    |		No Download Link Available Currently.|
 | 24.10-CL-24903530                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
-| 24.20-CL-24939793	                | N/A         	 | N/A            	    |		No Download Link Available Currently.|
+| 24.20-CL-24939793	                | N/A         	 | N/A            	    |		https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link|
 | 24.20-CL-25019967             | N/A         	 | N/A            	    |		No Download Link (May Change In Future)|
 | 24.20-CL-25058254	                | N/A         	 | N/A           	    |		No Download Link (May Change In Future)|
 | 24.20-CL-25156858	                | N/A       	 | N/A            	    |		No Download Link (May Change In Future)|
